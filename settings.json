@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot1",
   "bot-account": {
-    "username": "GlowcraftBot1",
-    "password": "",
+    "username": "Crossybot_01",
+    "password": "JAPANESE1",
     "type": "offline"
   },
   "server": {
@@ -82,6 +82,6 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["YourMinecraftUsername"]
+    "tpWhitelist": ["CrossFire782"]
   }
 }
