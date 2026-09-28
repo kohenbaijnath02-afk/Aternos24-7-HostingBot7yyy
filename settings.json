@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CrossFire_01.aternos.me
-",
+    "ip": "CrossFire_01.aternos.me",
     "port": 44366,
     "version": "1.20.1",
     "try-creative": false
